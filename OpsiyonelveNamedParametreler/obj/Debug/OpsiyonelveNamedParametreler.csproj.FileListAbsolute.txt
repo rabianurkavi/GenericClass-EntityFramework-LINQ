@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\OpsiyonelveNamedParametreler\bin\Debug\OpsiyonelveNamedParametreler.exe.config
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\OpsiyonelveNamedParametreler\bin\Debug\OpsiyonelveNamedParametreler.exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\OpsiyonelveNamedParametreler\bin\Debug\OpsiyonelveNamedParametreler.pdb
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\OpsiyonelveNamedParametreler\obj\Debug\OpsiyonelveNamedParametreler.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\OpsiyonelveNamedParametreler\obj\Debug\OpsiyonelveNamedParametreler.exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\OpsiyonelveNamedParametreler\obj\Debug\OpsiyonelveNamedParametreler.pdb
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\OpsiyonelveNamedParametreler\obj\Debug\OpsiyonelveNamedParametreler.csprojAssemblyReference.cache

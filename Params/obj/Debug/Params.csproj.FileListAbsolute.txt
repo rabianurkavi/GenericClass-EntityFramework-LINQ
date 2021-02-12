@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Params\bin\Debug\Params.exe.config
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Params\bin\Debug\Params.exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Params\bin\Debug\Params.pdb
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Params\obj\Debug\Params.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Params\obj\Debug\Params.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Params\obj\Debug\Params.exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Params\obj\Debug\Params.pdb

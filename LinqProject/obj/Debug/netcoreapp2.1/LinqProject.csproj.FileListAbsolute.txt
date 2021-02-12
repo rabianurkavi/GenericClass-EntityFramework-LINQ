@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\LinqProject\bin\Debug\netcoreapp2.1\LinqProject.deps.json
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\LinqProject\bin\Debug\netcoreapp2.1\LinqProject.runtimeconfig.json
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\LinqProject\bin\Debug\netcoreapp2.1\LinqProject.runtimeconfig.dev.json
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\LinqProject\bin\Debug\netcoreapp2.1\LinqProject.dll
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\LinqProject\bin\Debug\netcoreapp2.1\LinqProject.pdb
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\LinqProject\obj\Debug\netcoreapp2.1\LinqProject.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\LinqProject\obj\Debug\netcoreapp2.1\LinqProject.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\LinqProject\obj\Debug\netcoreapp2.1\LinqProject.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\LinqProject\obj\Debug\netcoreapp2.1\LinqProject.AssemblyInfo.cs
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\LinqProject\obj\Debug\netcoreapp2.1\LinqProject.dll
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\LinqProject\obj\Debug\netcoreapp2.1\LinqProject.pdb

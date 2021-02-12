@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\EntityFrameworkDemo\bin\Debug\netcoreapp2.1\EntityFrameworkDemo.deps.json
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\EntityFrameworkDemo\bin\Debug\netcoreapp2.1\EntityFrameworkDemo.runtimeconfig.json
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\EntityFrameworkDemo\bin\Debug\netcoreapp2.1\EntityFrameworkDemo.runtimeconfig.dev.json
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\EntityFrameworkDemo\bin\Debug\netcoreapp2.1\EntityFrameworkDemo.dll
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\EntityFrameworkDemo\obj\Debug\netcoreapp2.1\EntityFrameworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\EntityFrameworkDemo\obj\Debug\netcoreapp2.1\EntityFrameworkDemo.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\EntityFrameworkDemo\obj\Debug\netcoreapp2.1\EntityFrameworkDemo.AssemblyInfo.cs
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\EntityFrameworkDemo\bin\Debug\netcoreapp2.1\EntityFrameworkDemo.pdb
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\EntityFrameworkDemo\obj\Debug\netcoreapp2.1\EntityFrameworkDemo.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\EntityFrameworkDemo\obj\Debug\netcoreapp2.1\EntityFrameworkDemo.dll
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\EntityFrameworkDemo\obj\Debug\netcoreapp2.1\EntityFrameworkDemo.pdb

@@ -1,0 +1,6 @@
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\AdvancedClass2\bin\Debug\AdvancedClass2.exe.config
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\AdvancedClass2\bin\Debug\AdvancedClass2.exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\AdvancedClass2\bin\Debug\AdvancedClass2.pdb
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\AdvancedClass2\obj\Debug\AdvancedClass2.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\AdvancedClass2\obj\Debug\AdvancedClass2.exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\AdvancedClass2\obj\Debug\AdvancedClass2.pdb

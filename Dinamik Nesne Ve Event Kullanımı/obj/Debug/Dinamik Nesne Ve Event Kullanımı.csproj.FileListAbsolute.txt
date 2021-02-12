@@ -1,0 +1,10 @@
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Dinamik Nesne Ve Event Kullanımı\bin\Debug\Dinamik Nesne Ve Event Kullanımı.exe.config
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Dinamik Nesne Ve Event Kullanımı\bin\Debug\Dinamik Nesne Ve Event Kullanımı.exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Dinamik Nesne Ve Event Kullanımı\bin\Debug\Dinamik Nesne Ve Event Kullanımı.pdb
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Dinamik Nesne Ve Event Kullanımı\obj\Debug\Dinamik Nesne Ve Event Kullanımı.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Dinamik Nesne Ve Event Kullanımı\obj\Debug\Dinamik_Nesne_Ve_Event_Kullanımı.Form1.resources
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Dinamik Nesne Ve Event Kullanımı\obj\Debug\Dinamik_Nesne_Ve_Event_Kullanımı.Properties.Resources.resources
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Dinamik Nesne Ve Event Kullanımı\obj\Debug\Dinamik Nesne Ve Event Kullanımı.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Dinamik Nesne Ve Event Kullanımı\obj\Debug\Dinamik Nesne Ve Event Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Dinamik Nesne Ve Event Kullanımı\obj\Debug\Dinamik Nesne Ve Event Kullanımı.exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Dinamik Nesne Ve Event Kullanımı\obj\Debug\Dinamik Nesne Ve Event Kullanımı.pdb

@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Protected\bin\Debug\netcoreapp2.1\Protected.deps.json
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Protected\bin\Debug\netcoreapp2.1\Protected.runtimeconfig.json
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Protected\bin\Debug\netcoreapp2.1\Protected.runtimeconfig.dev.json
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Protected\bin\Debug\netcoreapp2.1\Protected.dll
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Protected\bin\Debug\netcoreapp2.1\Protected.pdb
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Protected\obj\Debug\netcoreapp2.1\Protected.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Protected\obj\Debug\netcoreapp2.1\Protected.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Protected\obj\Debug\netcoreapp2.1\Protected.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Protected\obj\Debug\netcoreapp2.1\Protected.AssemblyInfo.cs
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Protected\obj\Debug\netcoreapp2.1\Protected.dll
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Protected\obj\Debug\netcoreapp2.1\Protected.pdb

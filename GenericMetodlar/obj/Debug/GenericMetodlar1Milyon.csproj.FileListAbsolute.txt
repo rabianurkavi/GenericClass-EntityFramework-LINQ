@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\GenericMetodlar\bin\Debug\GenericMetodlar.exe.config
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\GenericMetodlar\bin\Debug\GenericMetodlar.exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\GenericMetodlar\bin\Debug\GenericMetodlar.pdb
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\GenericMetodlar\obj\Debug\GenericMetodlar1Milyon.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\GenericMetodlar\obj\Debug\GenericMetodlar1Milyon.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\GenericMetodlar\obj\Debug\GenericMetodlar.exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\GenericMetodlar\obj\Debug\GenericMetodlar.pdb

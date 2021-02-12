@@ -1,0 +1,10 @@
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Delagates\bin\Debug\Delagates.exe.config
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Delagates\bin\Debug\Delagates.exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Delagates\bin\Debug\Delagates.pdb
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Delagates\obj\Debug\Delagates.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Delagates\obj\Debug\Delagates.Form1.resources
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Delagates\obj\Debug\Delagates.Properties.Resources.resources
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Delagates\obj\Debug\Delagates.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Delagates\obj\Debug\Delagates.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Delagates\obj\Debug\Delagates.exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Delagates\obj\Debug\Delagates.pdb

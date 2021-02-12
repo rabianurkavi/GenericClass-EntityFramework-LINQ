@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\İsOperatörü\bin\Debug\İsOperatörü.exe.config
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\İsOperatörü\bin\Debug\İsOperatörü.exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\İsOperatörü\bin\Debug\İsOperatörü.pdb
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\İsOperatörü\obj\Debug\İsOperatörü.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\İsOperatörü\obj\Debug\İsOperatörü.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\İsOperatörü\obj\Debug\İsOperatörü.exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\İsOperatörü\obj\Debug\İsOperatörü.pdb

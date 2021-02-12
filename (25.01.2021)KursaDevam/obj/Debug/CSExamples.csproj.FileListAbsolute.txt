@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\(25.01.2021)KursaDevam\bin\Debug\(25.01.2021)KursaDevam.exe.config
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\(25.01.2021)KursaDevam\bin\Debug\(25.01.2021)KursaDevam.exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\(25.01.2021)KursaDevam\bin\Debug\(25.01.2021)KursaDevam.pdb
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\(25.01.2021)KursaDevam\obj\Debug\CSExamples.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\(25.01.2021)KursaDevam\obj\Debug\CSExamples.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\(25.01.2021)KursaDevam\obj\Debug\(25.01.2021)KursaDevam.exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\(25.01.2021)KursaDevam\obj\Debug\(25.01.2021)KursaDevam.pdb

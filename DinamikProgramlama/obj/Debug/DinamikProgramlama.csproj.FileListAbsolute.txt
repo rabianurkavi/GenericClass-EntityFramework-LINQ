@@ -1,0 +1,6 @@
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\DinamikProgramlama\bin\Debug\DinamikProgramlama.exe.config
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\DinamikProgramlama\bin\Debug\DinamikProgramlama.exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\DinamikProgramlama\bin\Debug\DinamikProgramlama.pdb
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\DinamikProgramlama\obj\Debug\DinamikProgramlama.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\DinamikProgramlama\obj\Debug\DinamikProgramlama.exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\DinamikProgramlama\obj\Debug\DinamikProgramlama.pdb

@@ -1,0 +1,6 @@
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\GenericDelegates\bin\Debug\GenericDelegates.exe.config
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\GenericDelegates\bin\Debug\GenericDelegates.exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\GenericDelegates\bin\Debug\GenericDelegates.pdb
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\GenericDelegates\obj\Debug\GenericDelegates.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\GenericDelegates\obj\Debug\GenericDelegates.exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\GenericDelegates\obj\Debug\GenericDelegates.pdb

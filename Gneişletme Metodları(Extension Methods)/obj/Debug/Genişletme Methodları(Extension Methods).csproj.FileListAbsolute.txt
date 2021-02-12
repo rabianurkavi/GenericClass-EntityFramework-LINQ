@@ -1,0 +1,6 @@
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Gneişletme Metodları(Extension Methods)\bin\Debug\Gneişletme Metodları(Extension Methods).exe.config
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Gneişletme Metodları(Extension Methods)\bin\Debug\Gneişletme Metodları(Extension Methods).exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Gneişletme Metodları(Extension Methods)\bin\Debug\Gneişletme Metodları(Extension Methods).pdb
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Gneişletme Metodları(Extension Methods)\obj\Debug\Genişletme Methodları(Extension Methods).csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Gneişletme Metodları(Extension Methods)\obj\Debug\Gneişletme Metodları(Extension Methods).exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Gneişletme Metodları(Extension Methods)\obj\Debug\Gneişletme Metodları(Extension Methods).pdb

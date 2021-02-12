@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Temsilciler1\obj\Debug\Temsilciler1.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Temsilciler1\obj\Debug\Temsilciler1.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Temsilciler1\bin\Debug\Temsilciler1.exe.config
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Temsilciler1\bin\Debug\Temsilciler1.exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Temsilciler1\bin\Debug\Temsilciler1.pdb
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Temsilciler1\obj\Debug\Temsilciler1.exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\Temsilciler1\obj\Debug\Temsilciler1.pdb

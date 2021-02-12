@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\AdvancedClass3\bin\Debug\AdvancedClass3.exe.config
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\AdvancedClass3\bin\Debug\AdvancedClass3.exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\AdvancedClass3\bin\Debug\AdvancedClass3.pdb
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\AdvancedClass3\obj\Debug\AdvancedClass3.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\AdvancedClass3\obj\Debug\AdvancedClass3.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\AdvancedClass3\obj\Debug\AdvancedClass3.exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\AdvancedClass3\obj\Debug\AdvancedClass3.pdb
