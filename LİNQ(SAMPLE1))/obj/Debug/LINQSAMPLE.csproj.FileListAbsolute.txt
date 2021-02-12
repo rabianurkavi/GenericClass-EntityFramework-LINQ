@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\LİNQ(SAMPLE1))\bin\Debug\LİNQ(SAMPLE1)).exe.config
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\LİNQ(SAMPLE1))\bin\Debug\LİNQ(SAMPLE1)).exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\LİNQ(SAMPLE1))\bin\Debug\LİNQ(SAMPLE1)).pdb
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\LİNQ(SAMPLE1))\obj\Debug\LINQSAMPLE.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\LİNQ(SAMPLE1))\obj\Debug\LİNQ(SAMPLE1)).exe
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\LİNQ(SAMPLE1))\obj\Debug\LİNQ(SAMPLE1)).pdb
+C:\Users\acer\source\repos\(25.01.2021)KursaDevam\LİNQ(SAMPLE1))\obj\Debug\LINQSAMPLE.csprojAssemblyReference.cache

@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqProject", "LinqProject\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EntityFramework", "EntityFramework", "{843BECAA-98FF-4FF2-A5AC-85C073D9E492}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkDemo", "EntityFrameworkDemo\EntityFrameworkDemo.csproj", "{647AF705-E8BF-462F-8095-0244F531B8D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityFrameworkDemo", "EntityFrameworkDemo\EntityFrameworkDemo.csproj", "{647AF705-E8BF-462F-8095-0244F531B8D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQSAMPLE", "LİNQ(SAMPLE1))\LINQSAMPLE.csproj", "{C6F00751-1EDF-489A-AB7E-23EB1804E734}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -133,6 +135,10 @@ Global
 		{647AF705-E8BF-462F-8095-0244F531B8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{647AF705-E8BF-462F-8095-0244F531B8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{647AF705-E8BF-462F-8095-0244F531B8D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6F00751-1EDF-489A-AB7E-23EB1804E734}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F00751-1EDF-489A-AB7E-23EB1804E734}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F00751-1EDF-489A-AB7E-23EB1804E734}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F00751-1EDF-489A-AB7E-23EB1804E734}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -156,6 +162,7 @@ Global
 		{42F75EC1-F4A9-40A6-935F-95BFCB2F82DF} = {F4EBB1DA-C2F7-43AA-9199-93801850B5EF}
 		{25264DAF-1639-4A7E-BB42-1B8D2E6A1087} = {F4EBB1DA-C2F7-43AA-9199-93801850B5EF}
 		{647AF705-E8BF-462F-8095-0244F531B8D4} = {843BECAA-98FF-4FF2-A5AC-85C073D9E492}
+		{C6F00751-1EDF-489A-AB7E-23EB1804E734} = {AC1F6C1B-C1EE-4695-86A6-7FBB2F215261}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1B02F2D9-7E1B-4869-B2A8-9FF850801D57}
